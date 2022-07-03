@@ -1,4 +1,4 @@
 # FinePose
 Functions and Implementation
 
-Run the 
+Run the dataprocess.m file to extract the features and then linera
